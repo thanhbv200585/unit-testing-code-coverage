@@ -1,0 +1,11 @@
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\bin\Debug\netstandard2.0\Numbers.deps.json
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\bin\Debug\netstandard2.0\Numbers.dll
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\bin\Debug\netstandard2.0\Numbers.pdb
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.AssemblyReference.cache
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfoInputs.cache
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfo.cs
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.CoreCompileInputs.cache
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.sourcelink.json
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.dll
+D:\FPT\Fasttrack\samples\csharp\unit-testing-code-coverage\Numbers\obj\Debug\netstandard2.0\Numbers.pdb
